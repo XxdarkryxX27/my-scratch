@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+ <style>
+  a:link,a:visited {
+   color: Teal;
+   background-color: Navy;
+   text-decoration: underline;
+   target-new: tab;
+  }
+  a:hover {
+   color: Aqua;
+   background-color: White;
+   text-decoration: underline;
+   target-new: none;
+  }
+ </style>
+</head>
+<body>
+ <!-- Text link tag - by www.rapidtables.com -->
+ <a href="https://scratch.mit.edu/users/XxdarkryxX-549/">my scratch</a>
+</body>
+</html>
